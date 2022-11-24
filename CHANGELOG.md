@@ -1,3 +1,8 @@
+# v1.0.1 - 20221124
+
+*[rs-06] Implement remove NAL content in sample file
+[PR#11](https://github.com/rs-thuannd/rebase-flow-v4/pull/11)
+
 # v1.0.0 - 20221124
 
 *[rs-04] Remove text EST from sample file
